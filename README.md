@@ -8,4 +8,4 @@ https://www2.camara.leg.br/transparencia/cota-para-exercicio-da-atividade-parlam
 * __Landed__: Arquivos brutos, extraídos do Portal da Transparência da Câmara dos Deputados;
 * __Raw__ : Arquivos otimizados, já em formato mais estruturado (Parquet);
 * __Modeled__ : Arquivo com agregações, conversões e etc;
-* __Self__ : Arquivos pronto para uso em insights
+* __Self__ : Arquivo pronto para uso em insights
